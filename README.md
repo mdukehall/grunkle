@@ -1,4 +1,4 @@
 # grunkle
 A Javascript platformer
 
-Goofin 1
+This is a tutorial.
